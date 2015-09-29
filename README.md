@@ -8,7 +8,13 @@
 
 Geliştirmecilerimize katkıdamı bulunacaksınız?:
 
-> Skype: X-Laz34
+### Geliştirmecilerimiz:
+
+> Source coder: x-laz34
+> Database developer: nxwile
+
 
 ### Version
 v1.0.0
+
+
