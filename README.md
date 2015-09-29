@@ -8,7 +8,6 @@
 
 Geliştirmecilerimize katkıdamı bulunacaksınız?:
 
-> Source: byGandalf
 > Skype: X-Laz34
 
 ### Version
