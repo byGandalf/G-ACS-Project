@@ -10,8 +10,8 @@ Geliştirmecilerimize katkıdamı bulunacaksınız?:
 
 ### Geliştirmecilerimiz:
 
-> Source coder: x-laz34
-> Database developer: nxwile
+  - Source coder: x-laz34
+  - Database developer: nxwile
 
 
 ### Version
